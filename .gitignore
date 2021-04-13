@@ -1,0 +1,10 @@
+.allure/*
+target/*
+allure-results/*
+src/test/resources/config/creds.properties
+src/test/resources/logs.log
+
+### IntelliJ IDEA ###
+.idea
+*.iml
+settings.xml
